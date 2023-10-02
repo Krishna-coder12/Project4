@@ -11,7 +11,7 @@ class Header extends React.Component {
 
     render() {
         return (
-            <div className="container Header"><div className="header">Gorup 5 Web App</div>
+            <div className="container Header"><div className="header">Group 5 Web App</div>
                 <div className="gradient"></div>
         <div className="button">
             <button type="button"><a href="getting-started.html">getting-started.html</a></button>
